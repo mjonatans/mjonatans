@@ -11,8 +11,16 @@ I am excited about the possibilities that lie ahead in the field of programming 
 📘 Latest projects
 
 News Feed website
+
+A news feed application utilizing systems such as MVC architecture, cache systems, services, and repositories for efficient data management. The users can filter through articles and users from both a website and console application
+
 GIPHY clone
+
+A project which integrates the GIPHY API to fetch and display dynamic and interactive GIFs on the webpage
+
 Rick and Morty API
+
+A Rick and Morty themed webpage that incorporates cache systems. By implementing caching mechanisms, the performance of the website is optimized, ensuring faster data retrieval and improved user experience.
 
 ---
 
