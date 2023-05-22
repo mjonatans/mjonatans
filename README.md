@@ -10,15 +10,15 @@ I am excited about the possibilities that lie ahead in the field of programming 
 
 📘 Latest projects
 
-News Feed website
+[News feed website](https://github.com/mjonatans/Fake-News)
 
 A news feed application utilizing systems such as MVC architecture, cache systems, services, and repositories for efficient data management. The users can filter through articles and users from both a website and console application
 
-GIPHY clone
+[GIPHY clone](https://github.com/mjonatans/GiphyApp)
 
 A project which integrates the GIPHY API to fetch and display dynamic and interactive GIFs on the webpage
 
-Rick and Morty API
+[Rick and Morty API](https://github.com/mjonatans/RickAndMortyApp)
 
 A Rick and Morty themed webpage that incorporates cache systems. By implementing caching mechanisms, the performance of the website is optimized, ensuring faster data retrieval and improved user experience.
 
