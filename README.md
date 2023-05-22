@@ -1,5 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Markuss!
 
+
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="Linkedin Logo" width="30" height="30"/>  [LinkedIn profile](https://www.linkedin.com/in/markuss-jonatans/)
+
+
 ---
 
 I am a passionate programmer focusing on becoming an expert full-stack/back-end PHP developer. By possessing expertise in various frameworks such as Laravel, and being well versed in design patterns like MVC, I am able to develop robust and scalable web applications suitable for your needs. 
