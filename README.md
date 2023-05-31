@@ -14,7 +14,7 @@ I am excited about the possibilities that lie ahead in the field of programming 
 
 📘 Latest projects
 
-[News feed website](https://github.com/mjonatans/Fake-News)
+[News feed website](https://github.com/mjonatans/NewsFeedApp)
 
 A news feed application utilizing systems such as MVC architecture, cache systems, services, and repositories for efficient data management. The users can filter through articles and users from both a website and console application
 
